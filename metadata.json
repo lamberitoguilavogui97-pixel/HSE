@@ -1,0 +1,6 @@
+{
+  "name": "Simandou SafePro HSE",
+  "description": "Cabinet de conseil et d'assistance HSE pour les PME sous-traitantes du corridor minier Simandou : forfaits d'assistance, audits, formations, outils de prospection et conformité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
